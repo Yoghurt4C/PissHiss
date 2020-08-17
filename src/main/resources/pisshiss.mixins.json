@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "mods.pisshiss.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "CreeperEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
